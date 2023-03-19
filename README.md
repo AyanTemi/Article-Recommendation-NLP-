@@ -5,7 +5,7 @@
 To build an article recommedation system using word embedding (Doc2Vec) and Cosine similarity.
 
 ## __Dataset:__ 
-The Medium article dataset from kaggle was used. The dataset contains title, text from articles, and other information about the article.
+The Medium article dataset from [kaggle](https://www.kaggle.com/datasets/hsankesara/medium-articles) was used. The dataset contains title, text from articles, and other information about the article. 
 
 
 ## __Models:__
